@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![japygo's github stats](https://github-readme-stats.vercel.app/api?username=japygo&show_icons=true&title_color=DB0007&icon_color=9C824A&text_color=C3D1D9&bg_color=0D1117)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japygo&layout=compact&title_color=DB0007&text_color=C3D1D9&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
